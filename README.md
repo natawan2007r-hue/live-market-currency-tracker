@@ -1,5 +1,4 @@
 # Live Market Currency Tracker
-#### Video Demo:  (https://youtu.be/pq0aBmLxKXg)
 #### Description: 
 The Live market currency tracker is used with automated with python application to fetch, process and log real time currency exchange rate live data in market_data.csv. The core objective of this project is to provide a data pipeline that take a user target currency, validate it against live global market, extract the conversion rate, and save the result for use in the future.
 
